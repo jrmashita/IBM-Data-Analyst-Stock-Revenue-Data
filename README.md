@@ -1,2 +1,2 @@
 # IBM-Data-Analyst-Stock-Revenue-Data
-First practice Github
+Submission for IBM Data Analayst Python Project
